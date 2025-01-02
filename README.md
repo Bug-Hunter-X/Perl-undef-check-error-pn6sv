@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Perl when checking for undefined variables. The `bug.pl` file shows the incorrect method, while `bugSolution.pl` provides the correct solution.
